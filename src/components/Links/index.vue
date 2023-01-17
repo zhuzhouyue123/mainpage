@@ -45,32 +45,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
-  },
-  {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://blog.zhuzhouyue.cn/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Flask,
-    name: "实验室",
-    link: "https://lab.imsyy.top/",
+    name: "wangyiyun音乐",
+    link: "https://music.163.com/",
   },
 ];
 
