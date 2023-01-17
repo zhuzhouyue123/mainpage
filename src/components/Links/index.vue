@@ -49,8 +49,28 @@ let linksData = [
   },
   {
     icon: CompactDisc,
-    name: "wangyiyun音乐",
+    name: "网易云音乐",
     link: "https://music.163.com/",
+  },
+  {
+    icon: Github,
+    name: "Github",
+    link: "https://github.com/",
+  },
+  {
+    icon: Tv,
+    name: "Bilibili",
+    link: "https://bilibili.com/",
+  },
+  {
+    icon: Code,
+    name: "Runoob",
+    link: "https://runoob.com/",
+  },
+  {
+    icon: WikipediaW,
+    name: "Wikipedia",
+    link: "https://zh.wikipedia.org/",
   },
 ];
 
