@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://zhuzhouyue.cn">JoeZhu</a>
+        <a href="https://www.zhuzhouyue.cn">JoeZhu</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
