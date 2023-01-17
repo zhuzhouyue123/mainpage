@@ -12,7 +12,9 @@
           target="_blank"
         >
           {{ config.author }}
-        </a></span
+        </a>&nbsp;&amp;&nbsp;Modified&nbsp;by&nbsp;JoeZhu
+        <a href="https://github.com/zhuzhouyue123/mainpage"></a>
+        </span
       >
     </div>
     <div class="lrc" v-show="store.playerState">

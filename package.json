@@ -1,8 +1,8 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "mainpage",
+  "author": "Imsyy & Modified By JoeZhu",
+  "github": "https://github.com/zhuzhouyue123/mainpage",
+  "home": "https://www.zhuzhouyue.cn",
   "private": true,
   "version": "4.0.0",
   "type": "module",
