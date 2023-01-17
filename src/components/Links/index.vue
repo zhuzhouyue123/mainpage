@@ -71,7 +71,7 @@ let linksData = [
     icon: WikipediaW,
     name: "Wikipedia",
     link: "https://zh.wikipedia.org/",
-  },
+  }
 ];
 
 // 链接跳转
